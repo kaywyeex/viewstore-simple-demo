@@ -1,0 +1,36 @@
+{
+    "factions": [
+        {
+            "id": "1",
+            "name": "Rebels",
+            "ships": [1, 4, 5]
+        },
+        {
+            "id": "2",
+            "name": "Empire",
+            "ships": [2, 3]
+        }
+    ],
+    "ships": [
+        {
+            "name": "Tantive IV",
+            "id": 1
+        },
+        {
+            "name": "Star Destroyer",
+            "id": 2
+        },
+        {
+            "name": "TIE Fighter",
+            "id": 3
+        },
+        {
+            "name": "X-Wing",
+            "id": 4
+        },
+        {
+            "name": "A-Wing",
+            "id": 5
+        }
+    ]
+}
